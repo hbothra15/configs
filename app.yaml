@@ -1,0 +1,6 @@
+message: Hello World
+---
+spring:
+  profile: dev
+
+message: World Says Hello

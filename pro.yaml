@@ -1,0 +1,6 @@
+tweet: Hello World
+---
+spring:
+  profile: dev
+
+tweet: World Says Hello
